@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 import static java.time.Duration.ofSeconds;
 
 public class BasePage {
-    // Test
+    // Test 2
     public AppiumDriver<MobileElement> driver;
 
     public BasePage(AppiumDriver<MobileElement> driver) {
